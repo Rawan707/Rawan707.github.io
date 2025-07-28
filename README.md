@@ -1,6 +1,6 @@
 # Rawan Moustafa Yehia
 
-Hi there! I'm * Rawan Moustafa Yehia, a 20-year-old undergraduate student specializing in **Software Engineering* at the *Faculty of Computer Science and Artificial Intelligence, **Helwan University. I’m currently moving into my **third year* of study.
+Hi there! I'm Rawan Moustafa Yehia, a 20-year-old undergraduate student specializing in Software Engineering at the Faculty of Computer Science and Artificial Intelligence, Helwan University. I’m currently moving into my third year of study.
 
 ## About Me
 
